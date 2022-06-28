@@ -3,6 +3,7 @@ node_modules
 
 # ignore vscode env file
 .vscode
+.DS_Store
 
 # ignore setting file
 zsh-syntax-highlighting
